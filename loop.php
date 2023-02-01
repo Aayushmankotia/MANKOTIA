@@ -1,7 +1,8 @@
 <?php
 
-$n=5
+$n=5;
 for ($x=1; $x<=$n; $n++){
-	echo" $x";
+	echo $x"<br>";
+	echo "this is loop file ";
 }
 ?>
